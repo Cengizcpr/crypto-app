@@ -21,7 +21,7 @@ Bu proje, kullanıcıların anlık crypto piyasalarını kontrol edebilecekleri 
 1. **Depoyu Klonlayın**:
 
    ```bash
-   git clone https://github.com/Cengizcpr/task-app.git
+   git clone https://github.com/Cengizcpr/crypto-app.git
    cd task-app
    ```
 
